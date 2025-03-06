@@ -3,3 +3,8 @@ title: "reportes"
 output: html_document
 ---
 
+bla bla bla
+por que no puedo desde pantalla
+otra vez intentar hacer un commit desde pantalla
+resulto!!! habia que quitar la opción de global option sobre
+sign in cada commit
