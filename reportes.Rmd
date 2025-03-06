@@ -9,3 +9,12 @@ otra vez intentar hacer un commit desde pantalla
 resulto!!! habia que quitar la opción de global option sobre
 sign in cada commit
 Se remueve el conflicto
+
+git merge newbranch => para fusionar branches
+git branch -d newbranch => para eliminar branch
+git push origin --delete newbranch => para eliminar branch en github
+git pull origin master => para traer cambios de master a local
+
+git branch newbranch => para crear branch
+
+git checkout newbranch => para cambiar a branch
